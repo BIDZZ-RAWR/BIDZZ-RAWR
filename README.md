@@ -1,16 +1,70 @@
-<h1 align="center">Hi 👋, I'm Bidzz Official</h1>
-<h3 align="center">I am an ordinary person who likes things related to technology and happens to be lucky to have a little experience about technology and others. Even though I only learned using autodidactic methods because of a reason that required me to do so :)</h3>
+<div align="center">Bidzz
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BIDZZ-RAWR&label=Profile%20views&color=0e75b6&style=flat" alt="BIDZZ-RAWR" /> </p>
+Web Developer · Tool Builder · Technology Enthusiast
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BIDZZ-RAWR" alt="BIDZZ-RAWR" /></a> </p>
+Building useful web applications, automation tools, and experimental digital products.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+"Portfolio" (https://bidzzofc.my.id/) · "Telegram" (https://t.me/bidzz7) · "Instagram" (https://instagram.com/bidzz_ajagin) · "YouTube" (https://youtube.com/@BidzzOFC)
 
-- 🔭 I’m currently working on [LUA XOR ENCRYPTED](https://github.com/BIDZZ-RAWR/lua-xor-encrypt)
+</div>---
 
-- 👯 I’m looking to collaborate on [ALONE](https://t.me/bidzz7)
+About Me
 
+I'm a self-taught developer from Indonesia focused on building practical web applications and digital tools.
+
+My work covers web development, automation, OSINT, security research, school systems, and experimental projects.
+
+I enjoy learning by building real products instead of stopping at tutorials or static demos.
+
+Featured Projects
+
+"BidzzFind" (https://find.bidzzofc.my.id/)
+
+Unified OSINT dashboard for domain reconnaissance, username discovery, public intelligence searches, and curated investigation resources.
+
+Includes integrations and workflows inspired by tools such as theHarvester, Sherlock, Intelligence X, and OSINT Framework.
+
+"BidzzAnime" (https://anime.bidzzofc.my.id/)
+
+Mobile-focused anime platform for discovering seasonal, currently airing, top-rated, and popular anime.
+
+Includes schedules, search, and personal library navigation.
+
+"BidzzMod" (https://mod.bidzzofc.my.id/)
+
+Web platform built to organize and distribute content for the BidzzMod community.
+
+"Personal Portfolio" (https://bidzzofc.my.id/)
+
+Central website containing my profile, experience, selected work, and project information.
+
+Technologies and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,python,lua,firebase,supabase,cloudflare,git,github&perline=7" alt="Technologies and tools" />
+</p>Areas of Interest
+
+- Web application development
+- Automation and developer tools
+- OSINT and security research
+- Backend integrations
+- School and organizational systems
+- Roblox and game-system experiments
+
+GitHub Statistics
+
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=BIDZZ-RAWR&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Bidzz GitHub statistics" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIDZZ-RAWR&layout=compact&hide_border=true&langs_count=8" alt="Most used languages" /></div>Contact
+
+- Website: "bidzzofc.my.id" (https://bidzzofc.my.id/)
+- Telegram: "@bidzz7" (https://t.me/bidzz7)
+- YouTube: "@BidzzOFC" (https://youtube.com/@BidzzOFC)
+- Email: "bidzzofficial@gmail.com" (mailto:bidzzofficial@gmail.com)
+
+---
+
+<div align="center">Open to collaboration, interesting projects, and new ideas.
+
+</div>
 - 🤝 I’m looking for help with [FIREBASE BREAKER](https://github.com/BIDZZ-RAWR/Firebase-Breaker)
 
 - 👨‍💻 All of my projects are available at [https://about-me-lemon-omega.vercel.app/](https://about-me-lemon-omega.vercel.app/)
