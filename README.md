@@ -1,75 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=BIDZZ&fontAlign=50&fontAlignY=38&desc=Building%20useful%20things%20from%20curiosity.&descAlignY=58&animation=fadeIn&section=header" width="100%" />
+# BIDZZ
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-bidzzofc.my.id-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bidzzofc.my.id/)
-[![Telegram](https://img.shields.io/badge/Telegram-@bidzz7-111111?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bidzz7)
-[![YouTube](https://img.shields.io/badge/YouTube-BidzzOFC-111111?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@BidzzOFC)
+**Web developer building practical tools, platforms, and digital products.**
+
+Self-taught developer from Indonesia, focused on web applications,  
+automation, OSINT, school systems, and interactive experiments.
+
+[Website](https://bidzzofc.my.id/) ·
+[Telegram](https://t.me/bidzz7) ·
+[YouTube](https://youtube.com/@BidzzOFC) ·
+[Email](mailto:bidzzofficial@gmail.com)
 
 </div>
 
-bidzz@github:~$ whoami
-Self-taught developer from Indonesia.
+---
 
-bidzz@github:~$ focus
-Web applications, automation, OSINT, security research,
-school systems, and experimental digital products.
+## 01 / About
 
-bidzz@github:~$ philosophy
-Learn by building. Ship useful products. Improve through failure.
+I learn technology by building products that can be used by real people.
 
-Selected Projects
+My interests include frontend development, backend integration, automation, OSINT, security research, and experimental software.
 
-> BidzzFind
+Currently exploring better product design, scalable web architecture, AI-assisted development, and Roblox game systems.
 
-Experimental OSINT workspace for domain reconnaissance, username discovery, public intelligence searches, and investigation resources.
+---
 
-OSINT Research Web Application
+## 02 / Selected Work
 
+### [BidzzFind](https://find.bidzzofc.my.id/)
 
+Experimental OSINT workspace for domain reconnaissance, username discovery, public-information searches, and curated investigation resources.
 
-> BidzzAnime
+`OSINT` `Research` `Web Application`
 
-Anime discovery platform with seasonal content, airing schedules, ratings, search, and personal library navigation.
+---
 
-Anime Content Discovery Responsive Web
+### [BidzzAnime](https://anime.bidzzofc.my.id/)
 
+Anime discovery platform featuring seasonal titles, airing schedules, ratings, search, and personal library navigation.
 
+`Anime Discovery` `Responsive Web` `Content Platform`
 
-> BidzzMod
+---
 
-Platform built to organize and distribute content for the BidzzMod community.
+### [BidzzMod](https://mod.bidzzofc.my.id/)
 
-Community Platform Content Management
+Digital platform built to organize and distribute content for the BidzzMod community.
 
+`Community Platform` `Content Management`
 
+---
 
-> Personal Portfolio
+### [Personal Portfolio](https://bidzzofc.my.id/)
 
-Central place for my profile, selected work, experience, and experiments.
+Main website containing my profile, experience, selected projects, and contact information.
 
-Portfolio Web Design
+`Portfolio` `Web Design` `Personal Brand`
 
+---
 
+## 03 / Technology
 
-Toolbox
+<div align="center">
 
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,python,lua,firebase,supabase,cloudflare,git,github&perline=7" alt="Technology stack" /></div>Current Direction
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,python,lua,supabase,firebase,cloudflare,git,github&perline=7" alt="Technology stack" />
 
-01  Building practical products for real users
-02  Exploring automation and AI-assisted development
-03  Learning backend architecture and security
-04  Experimenting with Roblox and interactive systems
+</div>
 
-GitHub Activity
+---
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=BIDZZ-RAWR&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" /></div>Contact
+## 04 / Current Focus
 
-Website   https://bidzzofc.my.id
-Telegram  https://t.me/bidzz7
-YouTube   https://youtube.com/@BidzzOFC
-Email     bidzzofficial@gmail.com
+- Building products for real users
+- Developing school and organization systems
+- Learning backend architecture and application security
+- Exploring automation and AI-assisted workflows
+- Experimenting with Roblox and interactive systems
 
-<div align="center"><br>Ideas become useful after they are shipped.
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%" /></div>
+## 05 / GitHub
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=BIDZZ-RAWR&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Bidzz GitHub statistics" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Build useful things. Keep learning. Ship the work.**
+
+</div>
