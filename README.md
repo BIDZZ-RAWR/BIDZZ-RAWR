@@ -8,7 +8,6 @@
 
 </div>
 
-```console
 bidzz@github:~$ whoami
 Self-taught developer from Indonesia.
 
@@ -74,4 +73,3 @@ Email     bidzzofficial@gmail.com
 <div align="center"><br>Ideas become useful after they are shipped.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%" /></div>
-```
