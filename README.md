@@ -56,10 +56,6 @@
   <img src="https://streak-stats.demolab.com?user=BIDZZ-RAWR&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BIDZZ-RAWR&bg_color=0d1117&color=3b82f6&line=1d4ed8&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph" />
-</p>
-
 ---
 
 ## 🐍 Kontribusi
