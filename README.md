@@ -15,9 +15,11 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About Me
 
-- I build web apps with **TypeScript**, **React**, and **Tailwind CSS**.
-- My work covers school portals, exam systems, e-voting, and admin dashboards.
-- I learn something new every day.
+- Student exploring web development, OSINT, digital security, and reverse engineering, driven by curiosity about how systems really work.
+- I build web apps with **TypeScript**, **React**, and **Tailwind CSS**: school portals, exam systems, e-voting, and admin dashboards.
+- I reverse engineer modded games and APKs to learn how protections are built and how they fail.
+- I offer Android application security testing, only on assets with written authorization.
+- Currently exploring: Frida internals, APK deobfuscation, edge deployment, OSINT workflows, and Ghidra scripting.
 - My rule: *ship it, then make it better*.
 - Portfolio: [bidzzofc.my.id](https://bidzzofc.my.id)
 
