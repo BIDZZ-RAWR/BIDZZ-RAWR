@@ -37,12 +37,12 @@
 
 <table align="center">
   <tr align="center">
-    <td valign="middle"><img src="https://img.shields.io/badge/IDA%20Pro-1d4ed8?style=for-the-badge" alt="IDA Pro" /></td>
+    <td valign="middle"><a href="https://hex-rays.com/ida-pro"><img src="assets/idapro.png" height="48" alt="IDA Pro" /></a></td>
     <td valign="middle"><a href="https://github.com/NationalSecurityAgency/ghidra"><img src="assets/ghidra.png" height="48" alt="Ghidra" /></a></td>
     <td valign="middle"><a href="https://github.com/radareorg/radare2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/radare2-dark.png" /><img src="assets/radare2.png" height="48" alt="radare2" /></picture></a></td>
     <td valign="middle"><a href="https://frida.re"><img src="assets/frida.svg" height="28" alt="Frida" /></a></td>
-    <td valign="middle"><img src="https://img.shields.io/badge/Reqable-1d4ed8?style=for-the-badge" alt="Reqable" /></td>
-    <td valign="middle"><img src="https://img.shields.io/badge/MT%20Manager-1d4ed8?style=for-the-badge" alt="MT Manager" /></td>
+    <td valign="middle"><a href="https://github.com/reqable/reqable-app"><img src="assets/reqable.webp" height="48" alt="Reqable" /></a></td>
+    <td valign="middle"><img src="assets/mtmanager.png" height="48" alt="MT Manager" /></td>
   </tr>
   <tr align="center">
     <td><sub>IDA Pro</sub></td>
