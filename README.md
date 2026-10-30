@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:3b82f6&height=200&section=header&text=BIDZZ%20RAWR&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Web%20Developer&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:3b82f6&height=200&section=header&text=BIDZZ%20RAWR&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Student%20%C2%B7%20Web%20Developer%20%C2%B7%20Security%20Explorer&descAlignY=58&descSize=20" width="100%" />
 
 <p align="center">
   <a href="https://github.com/BIDZZ-RAWR">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+BIDZZ+RAWR;Web+Developer;TypeScript+%E2%80%A2+React+%E2%80%A2+Tailwind;I+build+web+apps+people+actually+use" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+BIDZZ+RAWR;Student+%C2%B7+Web+Developer+%C2%B7+Security+Explorer;Reverse+Engineering+%E2%80%A2+OSINT+%E2%80%A2+Android+Security;Curious+about+how+systems+really+work" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About Me
 
 - Student exploring web development, OSINT, digital security, and reverse engineering, driven by curiosity about how systems really work.
-- I build web apps with **TypeScript**, **React**, and **Tailwind CSS**: school portals, exam systems, e-voting, and admin dashboards.
+- I build web apps with HTML, CSS, JavaScript, and **React**: school portals, exam systems, e-voting, and admin dashboards.
 - I reverse engineer modded games and APKs to learn how protections are built and how they fail.
 - I offer Android application security testing, only on assets with written authorization.
 - Currently exploring: Frida internals, APK deobfuscation, edge deployment, OSINT workflows, and Ghidra scripting.
@@ -29,19 +29,47 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,html,css,sass,nodejs,supabase,firebase,cloudflare,git,github,vscode&perline=8&theme=dark" alt="tech stack" />
+    <img src="https://skillicons.dev/icons?i=js,react,vite,html,css,sass,nodejs,supabase,firebase,cloudflare,git,github,vscode&perline=8&theme=dark" alt="tech stack" />
   </a>
 </p>
 
 ### Reverse Engineering & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/IDA%20Pro-1d4ed8?style=for-the-badge" alt="IDA Pro" />
-  <img src="https://img.shields.io/badge/Ghidra-1d4ed8?style=for-the-badge" alt="Ghidra" />
-  <img src="https://img.shields.io/badge/Radare2-1d4ed8?style=for-the-badge" alt="Radare2" />
-  <img src="https://img.shields.io/badge/Reqable-1d4ed8?style=for-the-badge" alt="Reqable" />
-  <img src="https://img.shields.io/badge/MT%20Manager-1d4ed8?style=for-the-badge" alt="MT Manager" />
-</p>
+<table align="center">
+  <tr align="center">
+    <td valign="middle"><img src="https://img.shields.io/badge/IDA%20Pro-1d4ed8?style=for-the-badge" alt="IDA Pro" /></td>
+    <td valign="middle"><a href="https://github.com/NationalSecurityAgency/ghidra"><img src="assets/ghidra.png" height="48" alt="Ghidra" /></a></td>
+    <td valign="middle"><a href="https://github.com/radareorg/radare2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/radare2-dark.png" /><img src="assets/radare2.png" height="48" alt="radare2" /></picture></a></td>
+    <td valign="middle"><a href="https://frida.re"><img src="assets/frida.svg" height="28" alt="Frida" /></a></td>
+    <td valign="middle"><img src="https://img.shields.io/badge/Reqable-1d4ed8?style=for-the-badge" alt="Reqable" /></td>
+    <td valign="middle"><img src="https://img.shields.io/badge/MT%20Manager-1d4ed8?style=for-the-badge" alt="MT Manager" /></td>
+  </tr>
+  <tr align="center">
+    <td><sub>IDA Pro</sub></td>
+    <td><sub>Ghidra</sub></td>
+    <td><sub>radare2</sub></td>
+    <td><sub>Frida</sub></td>
+    <td><sub>Reqable</sub></td>
+    <td><sub>MT Manager</sub></td>
+  </tr>
+</table>
+
+### OSINT
+
+<table align="center">
+  <tr align="center">
+    <td valign="middle"><a href="https://github.com/laramies/theHarvester"><img src="assets/theharvester.png" height="64" alt="theHarvester" /></a></td>
+    <td valign="middle"><a href="https://github.com/sherlock-project/sherlock"><img src="assets/sherlock.png" height="64" alt="Sherlock" /></a></td>
+    <td valign="middle"><img src="https://img.shields.io/badge/GHunt-1d4ed8?style=for-the-badge" alt="GHunt" /></td>
+  </tr>
+  <tr align="center">
+    <td><sub>theHarvester</sub></td>
+    <td><sub>Sherlock</sub></td>
+    <td><sub>GHunt</sub></td>
+  </tr>
+</table>
+
+<p align="center"><sub>Logos belong to their respective projects.</sub></p>
 
 ---
 
