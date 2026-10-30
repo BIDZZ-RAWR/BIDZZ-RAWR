@@ -1,12 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:3b82f6&height=200&section=header&text=BIDZZ%20RAWR&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Web%20Developer&descAlignY=58&descSize=20" width="100%" />
 
 <p align="center">
-  <img src="logo.png" width="110" alt="logo" />
-</p>
-
-<p align="center">
   <a href="https://github.com/BIDZZ-RAWR">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Halo%2C+saya+BIDZZ+RAWR+%F0%9F%91%8B;Web+Developer;TypeScript+%E2%80%A2+React+%E2%80%A2+Tailwind;Membangun+aplikasi+web+yang+berguna" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+BIDZZ+RAWR;Web+Developer;TypeScript+%E2%80%A2+React+%E2%80%A2+Tailwind;I+build+web+apps+people+actually+use" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,16 +13,17 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> Tentang Saya
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About Me
 
-- 💻 Fokus membangun aplikasi web dengan **TypeScript**, **React**, dan **Tailwind CSS**
-- 🏫 Mengerjakan portal sekolah, sistem ujian, e-voting, dan dashboard admin
-- 🌱 Terus belajar hal baru setiap hari
-- ⚡ Prinsip: *ship it, then make it better*
+- I build web apps with **TypeScript**, **React**, and **Tailwind CSS**.
+- My work covers school portals, exam systems, e-voting, and admin dashboards.
+- I learn something new every day.
+- My rule: *ship it, then make it better*.
+- Portfolio: [bidzzofc.my.id](https://bidzzofc.my.id)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -34,9 +31,19 @@
   </a>
 </p>
 
+### Reverse Engineering & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IDA%20Pro-1d4ed8?style=for-the-badge" alt="IDA Pro" />
+  <img src="https://img.shields.io/badge/Ghidra-1d4ed8?style=for-the-badge" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/Radare2-1d4ed8?style=for-the-badge" alt="Radare2" />
+  <img src="https://img.shields.io/badge/Reqable-1d4ed8?style=for-the-badge" alt="Reqable" />
+  <img src="https://img.shields.io/badge/MT%20Manager-1d4ed8?style=for-the-badge" alt="MT Manager" />
+</p>
+
 ---
 
-## 🚀 Proyek Publik
+## Public Projects
 
 <p align="center">
   <a href="https://github.com/BIDZZ-RAWR/aksara"><img src="https://img.shields.io/badge/aksara-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
@@ -50,7 +57,7 @@
 
 ---
 
-## 📊 Statistik GitHub
+## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=BIDZZ-RAWR&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="streak" />
@@ -58,7 +65,7 @@
 
 ---
 
-## 🐍 Kontribusi
+## Contributions
 
 <p align="center">
   <picture>
