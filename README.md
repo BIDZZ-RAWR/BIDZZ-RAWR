@@ -16,7 +16,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> About Me
 
 - Student exploring web development, OSINT, digital security, and reverse engineering, driven by curiosity about how systems really work.
-- I build web apps with HTML, CSS, JavaScript, and **React**: school portals, exam systems, e-voting, and admin dashboards.
+- I build web school portals, exam systems, e-voting, and admin dashboards.
 - I reverse engineer modded games and APKs to learn how protections are built and how they fail.
 - I offer Android application security testing, only on assets with written authorization.
 - Currently exploring: Frida internals, APK deobfuscation, edge deployment, OSINT workflows, and Ghidra scripting.
